@@ -20,5 +20,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/hesam-fattahi/testimonials-grid-section)
+- Live Site URL: [Preview](https://hesam-fattahi.github.io/testimonials-grid-section/)
