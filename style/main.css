@@ -60,7 +60,7 @@ body {
 }
 
 .container {
-  max-width: 1170px;
+  max-width: 640px;
   display: grid;
   grid-template-columns: 1fr;
   padding: 3em 2em;
@@ -137,8 +137,9 @@ body {
   opacity: 50%;
 }
 
-@media (min-width: 50em) {
+@media (min-width: 64em) {
   .container {
+    max-width: 1170px;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(2, 1fr);
   }
